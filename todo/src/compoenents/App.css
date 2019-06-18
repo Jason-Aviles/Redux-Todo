@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.false{
+  background: rgb(148, 128, 128);
+  padding:10px;
+  text-align: center;
+  border: 1px solid black;
+  text-decoration: line-through;
+}
